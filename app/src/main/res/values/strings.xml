@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleActivity</string>
+    <string name="neues_passwort_generieren">Neues Passwort generieren</string>
+    <string name="passwort_zusammensetzung">Passwort Zusammensetzung</string>
+    <string name="sonderzeichen">Sonderzeichen</string>
+    <string name="gross_buchstaben">Großbuchstaben</string>
+    <string name="kleinbuchstaben">Kleinbuchstaben</string>
+    <string name="zahlen">Zahlen</string>
+    <string name="start">Start</string>
+    <string name="title_activity_generator">GeneratorActivity</string>
+</resources>
